@@ -1,5 +1,3 @@
-import logo from './logo.svg';
-import './App.css';
 
 function Sum(a,b){
   return a+b;
@@ -11,7 +9,10 @@ function Negative(a,b){
 
 function App() {
   return (
-    <h1>Hello World 2 - fixing a bug</h1>
+    <>
+    <h1>Hello World 2 - fixing a bug for the second time!!!</h1>
+    <button>Press</button>
+    </>
   );
 }
 
